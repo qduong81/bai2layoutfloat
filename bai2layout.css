@@ -1,0 +1,77 @@
+
+.navbar{
+    background-color: pink; 
+    height: 50px; 
+    display: flex;
+    padding: 0;
+}
+
+.navbar a{
+    text-decoration: none;
+    padding: 0 20px; 
+    color: white;
+    display: flex;
+    align-items: center; 
+    height: 100%; 
+}
+
+.navbar a.active{
+    background-color: green; 
+    height: 100%; 
+}
+.boxchinh{
+    border: 1px solid rgb(255, 255, 2455);
+    width: 200px;
+    float: left;
+}
+.box{
+    border: 1px solid #fff;
+    background-color: #f8f9f9;
+    width: 190px;
+    margin-top: 11px;
+    height: 22px;
+    color: #424949;
+}
+.The-City{
+    background-color: rgb(65, 65, 250);
+    height: 80px;
+    margin-top: 12px;
+    width: 890px;
+}
+.Footer-text{
+    background-color: #85c1e9;
+    height: 60px;
+    clear: both;
+    align-content: center;
+    color: #fff;
+}
+.box2{
+    background: #2e86c1;
+}
+.box2,.box3,.box4,.box5,.box6,.box7{
+    margin-top: 2px;
+}
+.The-City{
+    text-align: center;
+    align-content: center;
+    color: #fff;
+    font-weight: bold;
+    font-size: x-large;
+}
+body{
+    width: 1100px;
+}
+.noidung{
+    float: left;
+    width: 898px;
+}
+.noidung2,.noidung3,.noidung4{
+    margin-top: 15px;
+}
+.noidung4{
+    margin-bottom: 25px;
+}
+.indam{
+    margin-left: 10px;
+    font-weight: 100;
+}
